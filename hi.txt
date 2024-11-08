@@ -1,0 +1,4 @@
+osascript -e '
+tell application "Roblox"
+    activate
+end tell
